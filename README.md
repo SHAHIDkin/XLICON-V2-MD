@@ -158,13 +158,13 @@ NOW Deploy👇
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
 
-## `CREDITS` 
+## `CREDITS` jaan
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
 <div><button id="boton" type="button">Base  - By GURU-BOT</button></div>
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
 
-## `OWNER` 
+## `OWNER`shahid03403747874 
 <a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
   
 **XLICON-V2** - By `salmanytofficial`
@@ -209,7 +209,7 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 ## 🙌 `Bot Developers and Contributors`
 | [![Mzn King](https://github.com/mznking.png)](https://github.com/mznking) | [![Suhail Tech Info](https://github.com/SuhailTechInfo.png)](https://github.com/SuhailTechInfo.) | [![Maher Zubair](https://github.com/Maher-Zubair.png)](https://github.com/Maher-Zubair) | [![VENOX](https://github.com/V-E-N-O-X.png)](https://github.com/V-E-N-O-X) | [![Syntax-king](https://github.com/syntax-king.png)](https://github.com/syntax-king) |
-| -------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
+| -------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
 | **Mzn King**<br>`Contributor`<br>`Bot Development`<br>`Bot Testing` | **Suhail Tech Info**<br>`Contributor`<br>`Feature Testing` |**Maher Zubair**<br>`Contributor`<br>`Bot Testing` | **VENOX**<br>`Menu Designs`<br>`Xlicon Web`<br>`Bot Testing` | **Syntax king**<br>`Contributor`<br>`Bot Testing` |
 
 ## 📊 `GitHub Stats of Bot Contributors`
